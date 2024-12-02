@@ -99,7 +99,7 @@ Finally, we perform our assertions. We check each branch of the formatter logic 
 		id="sap-ui-bootstrap"
 		src="../../resources/sap-ui-core.js"
 		data-sap-ui-resource-roots='{
-			"ui5.walkthrough": "../../"
+			"ui5.walkthrough": "../../../"
 		}'
 		data-sap-ui-async="true">
 	</script>
